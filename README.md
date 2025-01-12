@@ -36,4 +36,4 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
 
 ## 1 day, 1 commit.
-내일은 really * really 코딩하기.
+해야할일을 진짜 작은 단위로 계획하면 의미있는 커밋을 할 수 있지 않을까?
