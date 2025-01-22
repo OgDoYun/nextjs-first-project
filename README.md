@@ -37,3 +37,4 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 
 ## 1 day, 1 commit.
 아키텍처로 설계부터 하자.
+피그마 안쓰고, 그냥 스토리보드 형식으로 짜기.
